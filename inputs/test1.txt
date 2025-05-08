@@ -1,0 +1,15 @@
+If a would be seated next to b she would be 1 joy points more happy.
+If a would be seated next to c she would be 100 joy points less happy.
+If a would be seated next to d she would be 2 joy points more happy.
+
+If b would be seated next to a he would be 1 joy points more happy.
+If b would be seated next to c he would be 3 joy points more happy.
+If b would be seated next to d he would be 100 joy points less happy.
+
+If c would be seated next to a he would be 100 joy points less happy.
+If c would be seated next to b he would be 3 joy points more happy.
+If c would be seated next to d he would be 4 joy points more happy.
+
+If d would be seated next to a he would be 2 joy points more happy.
+If d would be seated next to b he would be 100 joy points less happy.
+If d would be seated next to c he would be 4 joy points more happy.

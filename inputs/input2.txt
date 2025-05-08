@@ -1,0 +1,10 @@
+Dish ARTICHOKE should only be served after Dish VERY SALTY EGG.
+Dish HAROSET should only be served after Dish GEFILTEH FISH.
+Dish POTATO KUGEL should only be served after Dish HAROSET.
+Dish REGEL KRUSHA should only be served after Dish TOMATO SALAD.
+Dish REGEL KRUSHA should only be served after Dish GEFILTEH FISH.
+Dish POTATO KUGEL should only be served after Dish CHICKEN SOUP.
+Dish CHICKEN SOUP should only be served after Dish TOMATO SALAD.
+Dish ARTICHOKE should only be served after Dish CHOPPED LIVER.
+Dish ARTICHOKE should only be served after Dish KARPAS.
+Dish HAROSET should only be served after Dish KARPAS.

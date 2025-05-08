@@ -1,0 +1,20 @@
+{
+    "name": "saferplace_hw1",
+    "version": "0.0.1",
+    "main": "dist/index.js",
+    "author": "Eli Algranti",
+    "scripts": {
+        "clean": "rm -rf node_modules && rm -rf dist && rm codebase.tar.gz",
+        "compile": "tsc",
+        "prestart": "npm run compile",
+        "start": "node dist/index.js",
+        "pretest": "npm run compile",
+        "test": "node --test dist/*.spec.js"
+
+
+    },
+    "devDependencies": {
+        "@types/node": "^22.14.1",
+        "typescript": "^5.8.3"
+    }
+}
